@@ -1,1 +1,1 @@
-# jamuna_project
+# campus-selection-system
